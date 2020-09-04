@@ -1,5 +1,6 @@
 import os
 import random
+
 import requests
 
 os.system('cls && title [TikTok Video Downloader]')
